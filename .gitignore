@@ -1,0 +1,26 @@
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+*.log
+
+# Java / Spring Boot
+target/
+.gradle/
+build/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Database & Storage
+*.sqlite
+*.db
+data/*.sqlite
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+
+# Environment & Secrets
+.env
+*.pem
